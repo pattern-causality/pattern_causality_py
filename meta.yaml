@@ -6,7 +6,7 @@ package:
   version: {{ version }}
 
 source:
-  url: https://github.com/skstavroglou/pattern_causality_py/releases/download/v{{ version }}/pattern_causality-{{ version }}.tar.gz
+  url: https://github.com/pattern-causality/pattern_causality_py/releases/download/v{{ version }}/pattern_causality-{{ version }}.tar.gz
   sha256: 99d42253d559992eb0137356ad52036789f00dd87ee7f5b1e4e6ebbad5e55141
 
 build:
@@ -58,7 +58,7 @@ test:
     - pytest tests -v --import-mode=append
 
 about:
-  home: https://github.com/skstavroglou/pattern_causality_py
+  home: https://github.com/pattern-causality/pattern_causality_py
   license: BSD-3-Clause
   license_family: BSD
   license_file: LICENSE
@@ -68,8 +68,8 @@ about:
     for analyzing causal relationships in time series data. This package provides
     efficient tools for detecting and quantifying causality patterns between
     multiple time series, with a particular focus on nonlinear complex systems.
-  doc_url: https://github.com/skstavroglou/pattern_causality_py#readme
-  dev_url: https://github.com/skstavroglou/pattern_causality_py
+  doc_url: https://github.com/pattern-causality/pattern_causality_py#readme
+  dev_url: https://github.com/pattern-causality/pattern_causality_py
 
 extra:
   recipe-maintainers:

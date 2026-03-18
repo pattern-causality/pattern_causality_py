@@ -2,8 +2,8 @@
 
 [![PyPI version](https://badge.fury.io/py/pattern-causality.svg)](https://badge.fury.io/py/pattern-causality)
 [![PyPI Downloads](https://static.pepy.tech/badge/pattern-causality)](https://pepy.tech/project/pattern-causality)
-[![Tests](https://github.com/skstavroglou/pattern_causality_py/actions/workflows/tests.yml/badge.svg)](https://github.com/skstavroglou/pattern_causality_py/actions/workflows/tests.yml)
-[![Lint](https://github.com/skstavroglou/pattern_causality_py/actions/workflows/lint.yml/badge.svg)](https://github.com/skstavroglou/pattern_causality_py/actions/workflows/lint.yml)
+[![Tests](https://github.com/pattern-causality/pattern_causality_py/actions/workflows/tests.yml/badge.svg)](https://github.com/pattern-causality/pattern_causality_py/actions/workflows/tests.yml)
+[![Lint](https://github.com/pattern-causality/pattern_causality_py/actions/workflows/lint.yml/badge.svg)](https://github.com/pattern-causality/pattern_causality_py/actions/workflows/lint.yml)
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 [![Python](https://img.shields.io/badge/python-3.8%20%7C%203.9%20%7C%203.10%20%7C%203.11-blue)](https://www.python.org/)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
@@ -61,7 +61,7 @@ pip install pattern-causality
 
 ### Via pip + git
 ```bash
-pip install git+https://github.com/skstavroglou/pattern_causality_py.git
+pip install git+https://github.com/pattern-causality/pattern_causality_py.git
 ```
 
 ### From Source
@@ -175,7 +175,7 @@ print(cv_results)
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/skstavroglou/pattern_causality_py.git
+git clone https://github.com/pattern-causality/pattern_causality_py.git
 cd pattern_causality_py
 ```
 

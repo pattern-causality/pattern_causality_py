@@ -125,7 +125,7 @@ setup(
     long_description_content_type="text/markdown",
     author="Stavros Stavroglou, Athanasios Pantelous, Hui Wang",
     author_email="huiw1128@gmail.com",
-    url="https://github.com/skstavroglou/pattern_causality_py",
+    url="https://github.com/pattern-causality/pattern_causality_py",
     packages=find_packages(),
     package_dir={"": "."},
     package_data={
